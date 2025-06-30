@@ -1,3 +1,10 @@
+# E-commercer Eplay
+Construção de uma landing page para um e-commerce de jogos.
+Front-end: React para interface dinâmica e Redux para gerenciamento de estado.
+Estilização: Styled Components para componentes visuais reutilizáveis.
+Lógica: TypeScript para código robusto e tipado.
+Controle de versão com o Git.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
